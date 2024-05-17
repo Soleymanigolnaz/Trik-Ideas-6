@@ -1,5 +1,7 @@
 # Trik-Ideas-6
 Create a To Do List
+![pic](https://github.com/Soleymanigolnaz/Trik-Ideas-6/assets/139486149/18bd1819-cc69-4e4b-8fe2-b0fe68cc0ae1)
+
 - [Demo Project]()
 
 - Developed by Golnaz Soleymani Mood
